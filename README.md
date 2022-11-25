@@ -1,3 +1,5 @@
+React App and dataTable to search GitHub users/repositories related to a desired programing language.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
