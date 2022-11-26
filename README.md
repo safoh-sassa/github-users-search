@@ -1,5 +1,5 @@
 React App and dataTable to search GitHub users/repositories related to a desired programing language.
-<a href"https://github-users-search.azurewebsites.net/">Live View</a>
+<a href="https://github-users-search.azurewebsites.net/">Live View</a>
 
 # Getting Started with Create React App
 
