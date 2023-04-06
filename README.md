@@ -2,5 +2,5 @@ React App and dataTable to search GitHub users/repositories which are related to
 <h3><a href="https://github-users-search.azurewebsites.net/" target="_blank">Live</a></h3>
 
 Installation:
-npm i 
-npm start
+npm i__ 
+npm start__
