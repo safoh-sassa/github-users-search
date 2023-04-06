@@ -3,4 +3,4 @@ React App and dataTable to search GitHub users/repositories which are related to
 
 Installation:\
 npm i\
-npm start\
+npm start
